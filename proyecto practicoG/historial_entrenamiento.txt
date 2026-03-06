@@ -1,0 +1,14 @@
+Checkpoint encontrado: Cargando pesos desde /content/drive/My Drive/08_MIAR/actividades/proyecto practicoG/dqn_enduro_checkpoint.weights.h5...
+REANUDACION: start_step=4500000
+INICIO: ENV=Enduro-v0 NB_STEPS=4520000
+Iniciando entrenamiento en Enduro-v0 (Objetivo: 4520000 pasos)...
+Step: 4510000 | Episodes: 2 | Avg Rwd (100): 127.50 | Loss: 0.04575093 | Epsilon: 0.1000 | Buffer: 10000
+Step: 4520000 | Episodes: 4 | Avg Rwd (100): 128.00 | Loss: 0.06564756 | Epsilon: 0.1000 | Buffer: 20000
+FIN ENTRENAMIENTO
+Checkpoint encontrado: Cargando pesos desde /content/drive/My Drive/08_MIAR/actividades/proyecto practicoG/dqn_enduro_checkpoint.weights.h5...
+REANUDACION: start_step=4850000
+INICIO: ENV=Enduro-v0 NB_STEPS=4870000
+Iniciando entrenamiento en Enduro-v0 (Objetivo: 4870000 pasos)...
+Step: 4860000 | Episodes: 2 | Avg Rwd (100): 117.00 | Loss: 0.04788906 | Epsilon: 0.1000 | Buffer: 10000
+Step: 4870000 | Episodes: 4 | Avg Rwd (100): 111.00 | Loss: 0.06473279 | Epsilon: 0.1000 | Buffer: 20000
+FIN ENTRENAMIENTO
